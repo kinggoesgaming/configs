@@ -1,0 +1,15 @@
+
+# Keys
+## PGP Keys
+.gnupg/
+## SSH Keys
+.ssh
+
+# Everything else until I figure it out
+*
+
+# Git Config
+!.gitconfig
+
+# Git Ignore
+!/.gitignore
