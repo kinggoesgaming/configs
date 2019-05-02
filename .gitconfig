@@ -1,0 +1,6 @@
+[user]
+	name = Hunar Roop Kahlon
+	email = hunar.roop@gmail.com
+	signingKey = 40624534AFF759C8
+[commit]
+	gpgSign = true
